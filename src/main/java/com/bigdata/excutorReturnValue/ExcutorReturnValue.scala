@@ -12,6 +12,7 @@ object ExcutorReturnValue {
   def main(args: Array[String]): Unit = {
 
     ///tianjia xinxixixixix
+    //wo shi fenzhi
 
     val conf = new SparkConf()
     conf.setMaster("local")
