@@ -3,7 +3,7 @@ package com.bigdata.algorithm.sort;
 /**
  * 快排使用的二分法，选一个基准数据经比较
  */
-public class QuickSort {
+public class QuickSort extends Object{
 
     public static void sort(int[] arr, int low, int high) {
         if (low > high) {
